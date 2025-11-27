@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
+
 ## 🚀 About Me
 I'm Luis Ramírez, a developer, software architect and tech enthusiast based in México City. I work mainly in applications for the México financial sector. I also enjoy reading, coding and talking about programming and any tec stuff with all the people :)
 ## 🤖 Areas of interest
