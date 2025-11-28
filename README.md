@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 I'm Luis Ramírez, a developer, software architect and tech enthusiast based in México City. I work mainly in applications for the México financial sector. I also enjoy reading, coding and talking about programming and any tec stuff with all the people :)
+
+
 ## 🤖 Areas of interest
 
 - Python coding  - xxx
@@ -28,3 +30,8 @@ I'm Luis Ramírez, a developer, software architect and tech enthusiast based in 
 ## 👁️‍🗨️ Current focus
 
 Learning GO and creating sample code from implementing of different software design patterns.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisramirezgarcia)
