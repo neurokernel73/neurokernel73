@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I'm Luis Ramírez, a developer, software architect and tech enthusiast based in México City. I work mainly in applications for the México financial sector. I also enjoy reading, coding and talking about programming and any tec stuff with all the people :)
+I am Luis Ramirez, an IT professional for over 32 years, mainly in the financial sector of Mexico. I have worked in all roles related to software development, from full-time developer to solutions architect, including technical lead and project manager. However, my passion is programming; deep down, I am still a developer eager to learn new tricks :)
 
 
 ## 🤖 Areas of interest
