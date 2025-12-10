@@ -21,15 +21,17 @@ I am Luis Ramirez, an IT professional for over 32 years, mainly in the financial
 
 ## 🤖 Areas of interest
 
-- Python coding  - xxx
-- Software architecture - xxx
-- AI, ML & LLM - xxx
-- Data visualization - xxx
+- Python coding
+- Software architecture
+- AI, ML & LLM
+- Data visualization
 
 
 ## 👁️‍🗨️ Current focus
 
-Learning GO and creating sample code from implementing of different software design patterns.
+Learning GO and Rust and creating sample code from implementing of different software design patterns.
+
+Creation of documents on various topics related to software development, documentation of best practices and implementation guides.
 
 
 ## 🔗 Links
