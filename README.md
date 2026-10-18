@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I am Luis Ramirez, an IT professional for over 32 years, mainly in the financial sector of Mexico. I have worked in all roles related to software development, from full-time developer to solutions architect, including technical lead and project manager. However, my passion is programming; deep down, I am still a developer eager to learn new tricks :)
+I am Luis Ramirez, an IT professional for over 32 years, mainly in the financial sector of Mexico. I have worked in all roles related to software development, from full-stack developer to solutions architect, including technical lead and project manager (PMI Certified), now focused on AI multi-agent spec-driven development. However, my passion is programming; deep down, I am still a developer eager to learn new tricks :)
 
 
 ## 🤖 Areas of interest
@@ -24,10 +24,13 @@ I am Luis Ramirez, an IT professional for over 32 years, mainly in the financial
 - Python coding
 - Software architecture
 - AI, ML & LLM
+- AI Multi-agent spec-driven development
 - Data visualization
 
 
 ## 👁️‍🗨️ Current focus
+
+Development of financial-grade systems using multi-AI-agent & spec-driven development techniques.
 
 Learning GO and Rust and creating sample code from implementing of different software design patterns.
 
